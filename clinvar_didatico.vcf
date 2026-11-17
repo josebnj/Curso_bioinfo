@@ -1,0 +1,24 @@
+##fileformat=VCFv4.2
+##contig=<ID=chrM,length=16569>
+##source=clinvar_didatico_minicurso (NAO usar fora do curso; conferir no ClinVar)
+##INFO=<ID=CLNSIG,Number=.,Type=String,Description="Significado clínico (didático)">
+##INFO=<ID=CLNDN,Number=.,Type=String,Description="Condição associada (didático)">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chrM	73	m.73A>G	A	G	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	263	m.263A>G	A	G	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	750	m.750A>G	A	G	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	1438	m.1438A>G	A	G	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	2706	m.2706A>G	A	G	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	3243	m.3243A>G	A	G	.	.	CLNSIG=Pathogenic;CLNDN=MELAS_syndrome
+chrM	3460	m.3460G>A	G	A	.	.	CLNSIG=Pathogenic;CLNDN=Leber_hereditary_optic_neuropathy
+chrM	4769	m.4769A>G	A	G	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	7028	m.7028C>T	C	T	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	8860	m.8860A>G	A	G	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	8993	m.8993T>G	T	G	.	.	CLNSIG=Pathogenic;CLNDN=NARP_syndrome|Leigh_syndrome
+chrM	11719	m.11719G>A	G	A	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	11778	m.11778G>A	G	A	.	.	CLNSIG=Pathogenic;CLNDN=Leber_hereditary_optic_neuropathy
+chrM	14484	m.14484T>C	T	C	.	.	CLNSIG=Pathogenic;CLNDN=Leber_hereditary_optic_neuropathy
+chrM	14766	m.14766C>T	C	T	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	15326	m.15326A>G	A	G	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	16189	m.16189T>C	T	C	.	.	CLNSIG=Benign;CLNDN=not_specified
+chrM	16519	m.16519T>C	T	C	.	.	CLNSIG=Benign;CLNDN=not_specified
